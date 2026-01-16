@@ -79,13 +79,5 @@ Netflix’s content strategy emphasizes movies, rapid catalog expansion, strong 
 
 ---
 
-## 📎 Files in This Repository
-- `netflix_analysis.ipynb` – Jupyter Notebook with full analysis
-- `netflix_analysis.html` – Exported HTML version
-- `netflix_titles.csv` – Original dataset
-- `netflix_cleaned.csv` – Cleaned dataset
-
----
-
 ## 👤 Tushar
 Data Analyst Portfolio Project
